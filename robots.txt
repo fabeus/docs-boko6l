@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-a1xnzu.greenshots.icu/sitemap.xml
